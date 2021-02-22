@@ -1,0 +1,2 @@
+# donationSite-PaymentGateway-CustomMail-php
+The task was to create a donation website with payment gateway implementation. After the successful payment, a mail will receive a custom invoice mail. I used phpmailer for sending custom mail. Besides this, a user can send messages to the organization. After that, a custom verification mail will be received.All the donation information and messages are stored in the MySQL database
